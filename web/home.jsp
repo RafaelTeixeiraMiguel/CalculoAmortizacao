@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Home</title>
         <link rel="stylesheet" href="css/base.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="shortcut icon" href="img/java.PNG">
@@ -23,7 +23,7 @@
         <div class="container1">
             <div>
                 <h3 class="p1">Amortização</h2><br/>
-                <p>Atividade II POO<br/>
+                <p>Atividade II - POO<br/>
                 A amortização refere-se à quitação de uma dívida por meio de pagamentos feitos gradualmente.<br/>
                 Aqui apresentamos o calculo de Amortização Constante, Americana e a Tabela Price.<p>
             </div><br/> 
