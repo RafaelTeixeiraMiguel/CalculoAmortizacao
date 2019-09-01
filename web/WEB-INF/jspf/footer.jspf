@@ -1,3 +1,24 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
-<h2>Hello World!</h2>
+<div class="d-flex bd-highlight mb-3 container2">
+    <div class="p-2 bd-highlight">
+        <p>Desenvolvido por<p>
+        <p class="b">Alan Monteiro</p>
+        <p class="b">Alex Vaz</p>
+        <p class="b">Matusalem Andrade</p>
+        <p class="b">Rafael Teixeira</p>        
+    </div>
+    <div class="p-2 bd-highlight"></div>
+    <div class="p-2 bd-highlight">
+        <p>Serviços</p>
+        <div>
+            <a href="home.jsp" class="links">Home</a><br/>
+            <a href="tabela-price.jsp" class="links">Tabela Price</a><br/>
+            <a href="amortizacao-constante.jsp" class="links">Amortização Constante</a><br/>
+            <a href="amortizacao-americana.jsp" class="links">Amortização Americana</a><br/>
+        </div>
+    </div>
+    <div class="ml-auto p-2 bd-highlight">
+        <img src="img/Java.svg" width="125" height="125" alt=""/>
+    </div>
+</div>

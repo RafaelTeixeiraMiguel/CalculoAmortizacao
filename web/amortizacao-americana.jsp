@@ -55,7 +55,7 @@
                 <%divida = 0;%>
                 <%}%>
                 <td><%=amotizacao%></td>
-                <td><%=jurosMensal%></td>
+                <td><%=df.format(jurosMensal)%></td>
                 <td><%=divida%>
             </tr>
             <%}%>
